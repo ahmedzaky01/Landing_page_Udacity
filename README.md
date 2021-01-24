@@ -1,5 +1,5 @@
 # Landing_page_Udacity
-# Landing_page_Udacity
+
 ## Navigation
 
 #### Navigation is built dynamically as an unordered list.
