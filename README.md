@@ -18,5 +18,5 @@ When clicking an item from the navigation menu, the link should scroll to the ap
 
 ### Resources Used
 
-** [MDN](www.mdn.com) **
-** [Udacity](https://classroom.udacity.com/nanodegrees/nd001-mena-nfp2/dashboard/overview) **
+[MDN](www.mdn.com)
+[Udacity](https://classroom.udacity.com/nanodegrees/nd001-mena-nfp2/dashboard/overview)
