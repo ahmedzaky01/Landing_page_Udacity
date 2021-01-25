@@ -1,13 +1,22 @@
-# Landing Page Project
+# Landing_page_Udacity
 
-## Table of Contents
+### Overview
+This is the repository for Project 1: Landing Page of the Udacity Front End Web Developer Nanodegree Program. The project helps to get hands on experience in the DOM manipulation using Javascript. I have created a navigation bar with links using DOM.
 
-* [Instructions](#instructions)
 
-## Instructions
+### Navigation
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+Navigation is built dynamically as an unordered list.
 
-To get started, open `js/app.js` and start building out the app's functionality
+### Section Active State
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+It should be clear which section is being viewed while scrolling through the page.
+
+### Scroll to Anchor
+
+When clicking an item from the navigation menu, the link should scroll to the appropriate section.
+
+### Resources Used
+
+[MDN](www.mdn.com)
+[Udacity](https://classroom.udacity.com/nanodegrees/nd001-mena-nfp2/dashboard/overview)
