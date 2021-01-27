@@ -1,7 +1,7 @@
 let sections = document.querySelectorAll('section');
 function smoothScroll(event){
     event.preventDefault();
-    let targetSection = event.originalTarget.innerText.split(' ').join('').toLowerCase();
+    let targetSection = event.target.innerText.split(' ').join('').toLowerCase();
     document.getElementById(targetSection).scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"});
     
 }
